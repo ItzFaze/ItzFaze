@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ItzFaze
-- 👀 I’m interested in Discord
-- 🌱 I’m currently learning Html,Css
-- 💞️ I’m looking to collaborate on Discord Bots
-- 📫 How to reach me dm me in discord ItzFaze#0001
+- 👀 I’m interested in Programming, Gaming, Physics And Maths
+- 🌱 I’m currently learning Python 
+- 📫 How to reach me dm me in discord shincray1
 
 <!---
 ItzFaze/ItzFaze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
